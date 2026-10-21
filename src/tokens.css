@@ -1,0 +1,12 @@
+:root {
+  color-scheme: dark;
+  --bg: #171c19;
+  --ink: #ebe9df;
+  --muted: #a1a79e;
+  --gold: #cdb17b;
+  --gold-bright: #f1d496;
+  --line: #ffffff17;
+  --paper: #e7e4da;
+  --paper-ink: #303c34;
+  --mono: 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+}

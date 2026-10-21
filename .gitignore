@@ -1,0 +1,37 @@
+node_modules/
+dist/
+.tools/
+.cache/
+test-results/
+playwright-report/
+coverage/
+*.log
+
+# Local configuration, credentials and private keys
+.env
+.env.*
+.npmrc
+.netrc
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+credentials.json
+.aws/
+.ssh/
+
+# Machine-specific editor and assistant state
+.vscode/
+.idea/
+.codex/
+.agents/
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+
+# Local release bundles and backups
+*.zip
+*.bak
+*.tmp
